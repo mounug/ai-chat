@@ -36,4 +36,6 @@ npm run dev
 4. Click "Create new secret key"
 5. Copy the generated key
 6. Enter the key in the application when prompted
-OR Simply use the API i provided
+
+
+## OR Simply use the API i provided
